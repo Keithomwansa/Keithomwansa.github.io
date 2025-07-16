@@ -21,7 +21,7 @@ baseurl: "" # ADDED: For user pages like keithomwansa.github.io
 
 #twitter_username: username
 github_username: Keithomwansa
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
