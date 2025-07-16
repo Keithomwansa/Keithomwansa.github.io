@@ -17,6 +17,7 @@ title: Eng Keith Omwansa
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Electrical Engineer | Solutions Architect | Networks | Cybersecurity
+baseurl: "" # ADDED: For user pages like keithomwansa.github.io
 
 #twitter_username: username
 github_username: Keithomwansa
