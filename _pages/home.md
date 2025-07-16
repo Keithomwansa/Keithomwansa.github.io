@@ -1,6 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /home/
+title: "Home"
+layout:
+author_profile: true
 ---
 
 Cybersecurity Engineer with three years’ experience, constructing and reinforcing 

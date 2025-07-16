@@ -1,5 +1,5 @@
 ---
-title: "Lab Challenges"
+title: "Labs"
 permalink: /labs/
 layout: Sample labs
 author_profile: true

@@ -17,7 +17,7 @@ title: Eng. Keith Omwansa
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Electrical Engineer | Solutions Architect | Networks | Cybersecurity
-baseurl: "" # ADDED: For user pages like keithomwansa.github.io
+baseurl: "" # ADDED: For user page
 
 #twitter_username: username
 github_username: Keithomwansa
@@ -60,6 +60,8 @@ plugins:
 author:
   name   : "Keith Omwansa"
   avatar : "/assets/images/LNNY.jpg"
+  description: >- # this means to ignore newlines until "baseurl:"
+    Electrical Engineer | Solutions Architect | Networks | Cybersecurity
   bio    : "I design secure networks, and protect your systems."
   links:
     - label: "Website"
