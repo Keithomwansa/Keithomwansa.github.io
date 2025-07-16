@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-layout:
+layout: "home"
 author_profile: true
 ---
 #                       Resume
