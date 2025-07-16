@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Keith Omwansa"
   avatar : "/assets/images/LNNY.jpg"
-  description:
-    Electrical Engineer | Solutions Architect | Networks | Cybersecurity
+  description: Electrical Engineer| Solutions Architect| Networks| Cybersecurity
   bio    : "I design secure networks, and protect your systems."
   links:
     - label: "Website"
