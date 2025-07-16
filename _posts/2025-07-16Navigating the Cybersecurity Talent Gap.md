@@ -1,5 +1,5 @@
 ---
-title: "Navigating the Cybersecurity Talent Gap: Chalenges and Solutions"
+title: "Navigating the Cybersecurity Talent Gap: Challenges and Solutions"
 categories:
   - Blog
 tags:
