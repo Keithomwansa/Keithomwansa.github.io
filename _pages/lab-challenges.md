@@ -1,6 +1,6 @@
 ---
 title: "Labs"
 permalink: /labs/
-layout: Sample labs
+layout: single
 author_profile: true
 ---

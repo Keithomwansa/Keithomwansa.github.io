@@ -1,7 +1,7 @@
 ---
 permalink: /home/
 title: "Home"
-layout: "single"
+layout: single
 author_profile: true
 ---
 

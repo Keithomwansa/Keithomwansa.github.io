@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Keith Omwansa"
   avatar : "/assets/images/LNNY.jpg"
-  description: >- # this means to ignore newlines until "baseurl:"
+  description:
     Electrical Engineer | Solutions Architect | Networks | Cybersecurity
   bio    : "I design secure networks, and protect your systems."
   links:

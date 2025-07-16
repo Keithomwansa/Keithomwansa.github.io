@@ -1,6 +1,6 @@
 ---
 title: "Contacts"
 permalink: /contacts/
-layout: contacts
+layout: single
 author_profile: true
 ---
