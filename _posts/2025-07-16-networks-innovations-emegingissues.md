@@ -1,5 +1,5 @@
 ---
-title: "NETWORKS: FUNDAMENTALS, OSI MODEL, EMERGIG ISSUES"
+title: "NETWORKS FUNDAMENTALS: OSI MODEL, Emerging Issues"
 categories:
   - Blog
 tags:

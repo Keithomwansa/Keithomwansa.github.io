@@ -1,5 +1,5 @@
 ---
-title: "INTERNET SAFETY: HOW TO AVOID BEING HACKED, COMPROMISED AND WEB-ROBBED!"
+title: "INTERNET SAFETY: How To Avoid Being Hacked, Compromised, or Scammmed!"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
@@ -8,15 +8,15 @@ tags:
   - update
 ---
 
-Your Simple Guide to Internet Safety: Stay Secure Online
+## How to Stay Secure Online
 The internet is an amazing place, connecting us to friends, family, information, and entertainment. But just like the real world, it has its risks. For someone who isn't very good with computers, the idea of "cybersecurity" can seem complicated or scary. But don't worry! Staying safe online is mostly about understanding a few simple rules and being a little cautious. Think of it as learning how to safely navigate a busy city – you don't need to know how to build a car, just how to drive defensively and watch out for dangers.
 
 This guide will explain how to protect yourself from common online threats like hacking, scams, and viruses, whether you're using your home internet or public Wi-Fi.
 
-How the Internet Works (Simply Put)
-Imagine the internet as a giant network of roads and highways connecting billions of computers and devices worldwide. When you "browse the internet," your computer is sending and receiving information along these roads. Just like real roads, some paths are safer than others, and some drivers (or websites/people) aren't trustworthy. Our goal is to teach you how to spot the safe roads and avoid the dangerous ones.
+## How the Internet Works 
+Imagine the internet as a giant network of roads and highways connecting billions of computers and devices worldwide. When you "browse the internet," your computer is sending and receiving information along these roads. Just like real roads, some paths are safer than others, and some drivers (or websites/people) aren't trustworthy. My goal is to teach you how to spot the safe roads and avoid the dangerous ones.
 
-1. Protecting Your Home Internet Connection
+### 1. Protecting Your Home Internet Connection
 Your home Wi-Fi is your personal gateway to the internet. Keeping it secure is the first line of defense.
 
 Secure Your Wi-Fi Network with a Strong Password:
@@ -39,7 +39,7 @@ Enable Automatic Updates: Your computer (Windows, Mac), smartphone (iPhone, Andr
 
 Use Antivirus/Anti-Malware Software: Install reputable antivirus software on your computer and keep it updated. This software acts like a security guard, scanning for and removing harmful programs (malware).
 
-2. Staying Safe on Public Wi-Fi
+### 2. Staying Safe on Public Wi-Fi
 Public Wi-Fi (in cafes, airports, hotels) is convenient but much less secure than your home network. Think of it as a public park – anyone can be there.
 
 Avoid Sensitive Activities: Never do online banking, shopping with credit cards, or access private accounts (like email or social media) that contain sensitive information when using public Wi-Fi. It's easier for others to "listen in" on your connection.
@@ -50,7 +50,7 @@ Turn Off File Sharing: Before connecting to public Wi-Fi, make sure file sharing
 
 Be Wary of "Free Wi-Fi" Names: Cybercriminals sometimes set up fake Wi-Fi hotspots with tempting names like "Free Airport Wi-Fi." Always confirm the official Wi-Fi network name with the venue staff before connecting.
 
-3. Webpage Safety: What to Look For
+### 3. Webpage Safety: What to Look For
 When you visit a website, there are quick checks you can do to see if it's trustworthy.
 
 Look for "HTTPS" and the Padlock:
@@ -75,7 +75,7 @@ Never click "OK" or "Download" on unexpected pop-ups.
 
 Read Privacy Policies (Simply): You don't need to be a lawyer to get the gist. Most reputable websites have a "Privacy Policy" link (usually at the bottom of the page). This tells you what information they collect about you and how they use it. If a site doesn't have one, or it's very vague, be cautious.
 
-4. Avoiding Common Online Attacks
+### 4. Avoiding Common Online Attacks
 Knowing the most common ways criminals try to trick you will help you avoid them.
 
 a. Phishing (Fake Emails/Messages)
@@ -138,7 +138,7 @@ Use a Password Manager: These are secure apps that generate and store all your c
 
 Enable Two-Factor Authentication (2FA) / Multi-Factor Authentication (MFA): This is a critical security layer. After entering your password, 2FA requires a second verification step, like a code sent to your phone or a fingerprint scan. Even if a hacker gets your password, they can't get in without that second factor. Enable it on every account that offers it (email, banking, social media).
 
-5. General Best Practices for Staying Protected
+### 5. General Best Practices for Staying Protected
 Regular Software Updates: I can't stress this enough! Updates fix security holes that hackers try to exploit.
 
 Backup Important Data: Regularly copy your important photos, documents, and files to an external hard drive or a cloud storage service. If your computer gets hacked or damaged, you won't lose everything.
@@ -147,5 +147,5 @@ Be Skeptical: If something online feels "off," it probably is. Trust your gut fe
 
 Educate Yourself: The digital world changes constantly. Read reliable news sources about online safety, and stay informed about new scams or threats.
 
-Conclusion
+##   Conclusion
 Staying safe online doesn't require you to be a computer expert. By understanding these basic principles and adopting a cautious, proactive mindset, you can significantly reduce your risk of falling victim to online threats. Remember, your vigilance is your best defense. Browse smart, stay safe!
