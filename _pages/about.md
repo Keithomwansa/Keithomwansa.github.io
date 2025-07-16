@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Cybersecurity engineer with three years’ experience, constructing and reinforcing 
+Cybersecurity Engineer with three years’ experience, constructing and reinforcing 
 organization's security architecture. Experienced in designing secure solutions, 
 implementing and maintaining security tools, and compliance management. 
 Certified in CCNA, Juniper, and ISC² CC, and CEH. 

@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 #twitter_username: username
 github_username: Keithomwansa
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -63,7 +63,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://keithomwansa.github.io"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
