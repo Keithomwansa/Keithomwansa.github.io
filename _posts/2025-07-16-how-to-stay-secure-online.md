@@ -9,6 +9,7 @@ tags:
 ---
 
 ## How to Stay Secure Online
+
 The internet is an amazing place, connecting us to friends, family, information, and entertainment. But just like the real world, it has its risks. For someone who isn't very good with computers, the idea of "cybersecurity" can seem complicated or scary. But don't worry! Staying safe online is mostly about understanding a few simple rules and being a little cautious. Think of it as learning how to safely navigate a busy city – you don't need to know how to build a car, just how to drive defensively and watch out for dangers.
 
 This guide will explain how to protect yourself from common online threats like hacking, scams, and viruses, whether you're using your home internet or public Wi-Fi.
