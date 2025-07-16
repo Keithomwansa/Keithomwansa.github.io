@@ -1,10 +1,10 @@
 ---
 title: "INTERNET SAFETY: How To Avoid Being Hacked, Compromised, or Scammmed!"
 categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+  - Blog
+#tags:
+#  - Jekyll
+#  - update
 ---
 
 ## How to Stay Secure Online
