@@ -2,5 +2,5 @@
 title: "Labs"
 permalink: /labs/
 layout: single
-author_profile: true
+#author_profile: true
 ---

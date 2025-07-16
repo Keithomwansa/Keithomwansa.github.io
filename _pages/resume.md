@@ -1,10 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "Resume"
 layout: home
 author_profile: true
 ---
-#                       Resume
+
 Cybersecurity Engineer with three years’ experience, constructing and reinforcing 
 organization's security architecture. Experienced in designing secure solutions, 
 implementing and maintaining security tools, and compliance management. 
@@ -15,7 +15,7 @@ firewalls, VLANs, VPNs, and cloud.
 Dedicated to continuous learning and staying ahead of emerging technologies in the networking and cybersecurity landscape.  
 
 ## Experience
-**NETWORK ENGINEER**
+**NETWORK ENGINEER**,
 **NEONETWORX CONSULTING** – Nairobi, Kenya 	2021 – Present  
 - Designed, implemented, and managed network security infrastructure, including firewalls, intrusion detection/prevention systems, and SIEM solutions. 
 - Conducted vulnerability assessments and penetration testing to identify and mitigate security risks.
