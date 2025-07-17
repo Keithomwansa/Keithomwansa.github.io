@@ -60,12 +60,12 @@ Knowing the most common ways criminals try to trick you will help you avoid them
       - *Viruses:* Programs that attach to other programs and spread.
       - *Ransomware:* Locks your files or computer and demands money to unlock them.
       - *Spyware:* Secretly collects information about you.
-    **How it Spreads:** Suspicious downloads, malicious email attachments, visiting infected websites, or clicking on deceptive ads.
-    **Protection:**
+    - **How it Spreads:** Suspicious downloads, malicious email attachments, visiting infected websites, or clicking on deceptive ads.
+    - **Protection:**
       - *Antivirus Software:* Keep it installed and updated.
       - *Software Updates:* Keep your operating system and all applications updated.
       - *Be Cautious:* Only download software from trusted sources. Don't click on suspicious links or open unexpected attachments.
-  3.**Online Scams (Shopping, Tech Support, Romance)**
+  3.  **Online Scams (Shopping, Tech Support, Romance)**
       - *Too Good to Be True:* If an offer online seems incredibly good (e.g., a luxury item for almost nothing), it's probably a scam.
       - *Requests for Personal Info/Money:* Be extremely suspicious of anyone online asking for your bank details, credit card numbers, or money, especially if you've only just met them or they're pressuring you.
       - *Tech Support Scams:* If a pop-up appears saying your computer is infected and gives you a phone number to call "tech support," it's a scam. They will try to get you to pay for unnecessary services or give them remote access to your computer.
