@@ -53,7 +53,7 @@ Knowing the most common ways criminals try to trick you will help you avoid them
       - *Suspicious Links:* Hover your mouse over a link (don't click!) to see the actual website address that pops up. If it doesn't match the company's real website, it's fake.
       - *Unexpected Attachments:* Never open attachments from unknown senders.
     - **What to Do:**
-      - *Verify Directly:* If you're unsure, do not click any links or call any numbers in the suspicious message. Instead, go directly to the company's official website (by typing their address into your browser) or call them using a phone number you know is legitimate (e.g., from their official website or a statement).
+      *Verify Directly:* If you're unsure, do not click any links or call any numbers in the suspicious message. Instead, go directly to the company's official website (by typing their address into your browser) or call them using a phone number you know is legitimate (e.g., from their official website or a statement).
       - *Report It:* Many email providers have a "Report Phishing" button.
   2. **Malware (Viruses, Ransomware, Spyware)**
     What it is: Malware is malicious software designed to harm your computer, steal your data, or disrupt your operations.
@@ -65,15 +65,15 @@ Knowing the most common ways criminals try to trick you will help you avoid them
       - *Antivirus Software:* Keep it installed and updated.
       - *Software Updates:* Keep your operating system and all applications updated.
       - *Be Cautious:* Only download software from trusted sources. Don't click on suspicious links or open unexpected attachments.
-  3. **Online Scams (Shopping, Tech Support, Romance)**
-    - *Too Good to Be True:* If an offer online seems incredibly good (e.g., a luxury item for almost nothing), it's probably a scam.
-    - *Requests for Personal Info/Money:* Be extremely suspicious of anyone online asking for your bank details, credit card numbers, or money, especially if you've only just met them or they're pressuring you.
-    - *Tech Support Scams:* If a pop-up appears saying your computer is infected and gives you a phone number to call "tech support," it's a scam. They will try to get you to pay for unnecessary services or give them remote access to your computer.
-    - *Verify Legitimacy:* For online shopping, always check reviews, look for contact information, and ensure the site is secure (HTTPS).
+  3.**Online Scams (Shopping, Tech Support, Romance)**
+      - *Too Good to Be True:* If an offer online seems incredibly good (e.g., a luxury item for almost nothing), it's probably a scam.
+      - *Requests for Personal Info/Money:* Be extremely suspicious of anyone online asking for your bank details, credit card numbers, or money, especially if you've only just met them or they're pressuring you.
+      - *Tech Support Scams:* If a pop-up appears saying your computer is infected and gives you a phone number to call "tech support," it's a scam. They will try to get you to pay for unnecessary services or give them remote access to your computer.
+      - *Verify Legitimacy:* For online shopping, always check reviews, look for contact information, and ensure the site is secure (HTTPS).
   4. **Password-Related Attacks**
-    - *Strong, Unique Passwords:* Use a different, strong password for every important online account (email, banking, social media). If one account is hacked, the others remain safe. Think of a long, memorable phrase, then add numbers and symbols (e.g., MyCatL0vesTuna!23).
-    - *Use a Password Manager:* These are secure apps that generate and store all your complex passwords for you, so you only need to remember one master password.
-    - *Enable Two-Factor Authentication (2FA) / Multi-Factor Authentication (MFA):* This is a critical security layer. After entering your password, 2FA requires a second verification step, like a code sent to your phone or a fingerprint scan. Even if a hacker gets your password, they can't get in without that second factor. Enable it on every account that offers it (email, banking, social media).
+      - *Strong, Unique Passwords:* Use a different, strong password for every important online account (email, banking, social media). If one account is hacked, the others remain safe. Think of a long, memorable phrase, then add numbers and symbols (e.g., MyCatL0vesTuna!23).
+      - *Use a Password Manager:* These are secure apps that generate and store all your complex passwords for you, so you only need to remember one master password.
+      - *Enable Two-Factor Authentication (2FA) / Multi-Factor Authentication (MFA):* This is a critical security layer. After entering your password, 2FA requires a second verification step, like a code sent to your phone or a fingerprint scan. Even if a hacker gets your password, they can't get in without that second factor. Enable it on every account that offers it (email, banking, social media).
 
 ### 5. General Best Practices for Staying Protected
   Regular Software Updates: I can't stress this enough! Updates fix security holes that hackers try to exploit.
