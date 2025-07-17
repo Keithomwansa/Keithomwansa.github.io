@@ -52,8 +52,7 @@ Knowing the most common ways criminals try to trick you will help you avoid them
       - *Generic Greetings:* "Dear Customer" instead of your name.
       - *Suspicious Links:* Hover your mouse over a link (don't click!) to see the actual website address that pops up. If it doesn't match the company's real website, it's fake.
       - *Unexpected Attachments:* Never open attachments from unknown senders.
-
-    **What to Do:**
+    - **What to Do:**
       - *Verify Directly:* If you're unsure, do not click any links or call any numbers in the suspicious message. Instead, go directly to the company's official website (by typing their address into your browser) or call them using a phone number you know is legitimate (e.g., from their official website or a statement).
       - *Report It:* Many email providers have a "Report Phishing" button.
   2. **Malware (Viruses, Ransomware, Spyware)**
